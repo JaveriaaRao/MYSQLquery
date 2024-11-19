@@ -1,1 +1,1 @@
-Data base (working on SQL)
+Database (working on SQL)
