@@ -430,7 +430,7 @@ userr.userID=Notifications.userID
 select count(userID) from userr;
 select count(*) from userr;
 
--- 2) sum
+-- 2) sum 
 select sum(userID) from userr;
 
 -- 3) AVEAGE
